@@ -1,23 +1,15 @@
-# YOUR NAME
+<h1 align="center">NOAH QUEZADA</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
 
-**Data Scientist**  
-[Portfolio Website](https://yourwebsite.com) | [Twitter](https://twitter.com/yourhandle)
-
----
-
-### Hi there! 👋 I'm a Data Scientist with expertise in [data analysis, machine learning, etc.]. I'm passionate about creating projects that [solve problems, help others, etc.].
-
-I also love sharing knowledge through open-source projects and creating resources for the data science community.
+**Website:**  
+[Portfolio Website](https://medium.com/@noahquezadaags) | [Twitter](https://x.com/Noah_Q24)
 
 ---
+Hi there! 👋 I'm an aspiring Data Analyst with expertise in SQL,Python, R,Excel. I'm passionate about creating projects that enhance my understanding of data analysis. Currently, I am pursuing a Bachelor's degree in Environmental Science at Queens College City of New York
+
 
 ### 🔭 What am I up to?
 
 - 🌱 Recently contributed to [Project Name].
 - 🧠 Learning more about [Topic].
   
----
-
-### Connect with me:
-- [Website](https://yourwebsite.com)
-- [GitHub](https://github.com/yourusername)
